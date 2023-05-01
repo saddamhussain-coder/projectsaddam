@@ -1,0 +1,15 @@
+.mainbox{
+    /*background-color: black;*/
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    /*justify-content: space-between;*/
+    align-items: center;
+}
+.container{
+
+    width: 200px;
+    height: 50px;
+    background-color: aquamarine;
+    border: 1px solid black;
+}
